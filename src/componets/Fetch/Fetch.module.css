@@ -1,0 +1,13 @@
+.ident{
+    margin-top: 12px;
+    flex-wrap: wrap;
+    display: flex;
+    
+}
+.setUsers{
+    border: 1px solid rgb(169, 169, 169);
+    border-radius: 4px;
+    padding: 4px 5px;
+    margin-right: 15px;
+    cursor: pointer;
+  }

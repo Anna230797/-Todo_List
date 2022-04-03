@@ -1,0 +1,28 @@
+.btn {
+  margin-left: 10px;
+}
+.listItems {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  margin-top: 24px;
+  padding: 6px;
+}
+
+.listItems:hover {
+  background: #f0fff0;
+  border-radius: 6px;
+}
+.close{
+    color: black;
+    text-decoration: line-through;
+} 
+ .checkBox {
+    margin-right: 25px;
+  }
+.title{
+  margin-top: 20px;
+  text-align: center;
+  font-size: 30px;
+  border: 2px solid #778899;
+}
